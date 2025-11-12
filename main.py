@@ -1,1 +1,1 @@
-print("Hello wolrd");
+print("Funcționalitate nouă adăugată în feature-1")
